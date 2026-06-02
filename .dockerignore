@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+*.pyc
+scripts/
+tests/
+.python-version
+uv.lock
+pyproject.toml
