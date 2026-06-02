@@ -2,6 +2,8 @@
 
 Amber Jiang
 
+https://cogload-frontend-98299138336.us-west2.run.app
+
 ## Overview
 
 Analyzes how cognitive load flows through long-form articles. Scrapes Substack publications, extracts per-paragraph complexity features, clusters articles into gradient shapes (plateau, rollercoaster, resolution), and serves an interactive Streamlit app that visualizes complexity trajectories and rewrites flagged paragraphs toward a target shape using an LLM.
