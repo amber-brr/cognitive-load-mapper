@@ -2,7 +2,8 @@
 
 Amber Jiang
 
-https://cogload-frontend-98299138336.us-west2.run.app
+API: https://cogload-api-czyinzvqmq-wl.a.run.app/
+App: https://cogload-frontend-98299138336.us-west2.run.app
 
 ## Overview
 
